@@ -11,6 +11,7 @@ Mettre la couleur jaune sur le label
 // Finalisation
 Ajouter le lable sur la fenetre
 Afficher la fenêtre
-Ajouter fond jaune
+fond d'ecran vert
+texte couleur bleu
 }
 }
