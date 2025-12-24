@@ -1,6 +1,11 @@
 Constantes {
  constante HELLO_WORLD = « Hello world »
  constante DIMENSION =  « 200, 200»
+<<<<<<< HEAD
  constante TEST = 'test'
 constant DIFF = "C20"
  }
+=======
+ constante TEST = 'tost'
+ }
+>>>>>>> a795322 (C10 : modification locale)
