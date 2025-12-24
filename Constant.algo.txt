@@ -2,4 +2,5 @@ Constantes {
  constante HELLO_WORLD = « Hello world »
  constante DIMENSION =  « 200, 200»
  constante TEST = 'test'
+constant DIFF = "C20"
  }
